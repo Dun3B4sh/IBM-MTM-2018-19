@@ -3,7 +3,7 @@ This repo contains screengrabs of my Rexx script and the corresponding output on
 
 ## Rexx Script
 
-https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx1.JPG
+<https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx1.JPG>
 https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx2.JPG
 https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx3.JPG
 https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx4.JPG
