@@ -6,7 +6,8 @@ This repo contains screengrabs of my Rexx script and the corresponding output on
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15(2).JPG)
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15(3).JPG)
 
-
+<b>
+  
 ## Rexx Script
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx1.JPG)
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx2.JPG)
@@ -15,5 +16,7 @@ This repo contains screengrabs of my Rexx script and the corresponding output on
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx5.JPG)
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15rexx6.JPG)
 
+<b>
+  
 ## JCL
 ![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/ch15JCL.JPG)
