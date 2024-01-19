@@ -11,7 +11,4 @@ This repo contains screengrabs of my Rexx script and the corresponding output on
 <b>
 <b>
 <b>
-  
-## IBM MTM 2018 Wall of Fame(UAE)
-![alt text](https://github.com/Shbh11/IBM-MTM-2018-19/blob/master/Console_Screengrabs/2018MTM_Wall_of_Fame.PNG)
 
